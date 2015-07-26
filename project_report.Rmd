@@ -24,7 +24,7 @@ The materials can be found in:
 
 Web app: https://hassanelahi.shinyapps.io/titanicShinyApp-master/
 
-GitHub Repo: https://github.com/diogoaurelio/titanicShinyApp
+GitHub Repo: https://github.com/hassan-elahi/Course-Project
 
 
 
